@@ -1,6 +1,6 @@
 config = {
-"uri":"https://spotmybackup.yazdperlite.com",
-"redirect_uri":"https://spotmybackup.yazdperlite.com/login.html",
+"uri":"https://spotmybackup.yazdperlite.ir",
+"redirect_uri":"https://spotmybackup.yazdperlite.ir/login.html",
 "client_id":"58f7b4acd25f4b4f9e92bb1ce8a12127",
 "slowdown_import": 100,
 "slowdown_export": 100
